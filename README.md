@@ -3,6 +3,10 @@
 A three month project culminating in a 10-minute poster presentation/Q & A session. Through the project, I scraped and wrangled data from multiple sources & generated concise, unbiased visuals in Python to effectively 
 showcase player performance and highlight the cost-effectiveness of team salary spending over time.
 
+**NOTE**: 
+* A continuation of the project to build an interactive dashboard can be found [here](https://github.com/vaibhavmehrotraml/NBA-Player-performance-and-Salary).
+* [UPDATED INTERACTIVE TABLEAU DASHBOARD](https://public.tableau.com/views/NBAFinalProject_16705333901440/MainDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ### Directories
 * [Data](./Data): Contains all data files used for analysis and data scraping [code](./Data/SalaryDataScraping.ipynb). Data collected from FiveThirtyEight & BasketballReference.com
  * Data Sources:
