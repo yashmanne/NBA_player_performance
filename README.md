@@ -6,6 +6,7 @@ showcase player performance and highlight the cost-effectiveness of team salary 
 **NOTE**: 
 * A continuation of the project to build an interactive dashboard can be found [here](https://github.com/vaibhavmehrotraml/NBA-Player-performance-and-Salary).
 * [UPDATED INTERACTIVE TABLEAU DASHBOARD](https://public.tableau.com/views/NBAFinalProject_16705333901440/MainDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+  * [Write-up of dashboard development process](./Interactive_Dashboard_Writeup.pdf)
 
 ### Directories
 * [Data](./Data): Contains all data files used for analysis and data scraping [code](./Data/SalaryDataScraping.ipynb). Data collected from FiveThirtyEight & BasketballReference.com
